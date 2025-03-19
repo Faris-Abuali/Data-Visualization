@@ -128,9 +128,9 @@ This project is for educational purposes and follows the guidelines of the **[Da
 <br/>
 <br/>
 
-| ![DOT Algorithm: Showing all languages inspired by Fortran I](Figures/Assignment5_languages_not_inspired_by_Fortran_I.png) |
+| ![DOT Algorithm: Showing all languages NOT inspired by Fortran I](Figures/Assignment5_languages_not_inspired_by_Fortran_I.png) |
 |:--:|
-| *Figure 16: DOT Algorithm: Showing all languages inspired by Fortran I* |
+| *Figure 16: DOT Algorithm: Showing all languages NOT inspired by Fortran I* |
 
 <br/>
 <br/>
